@@ -1,34 +1,14 @@
 <div class='container'>
+
 # Kevin Klaes
 <div id='contact'>
+- 2732 Grand Ave S, Minneapolis, MN 55408
 - Kevin.Klaes@gmail.com
 - 612.234.1645
-- https://github.com/KevinKlaes
+- [github.com/KevinKlaes](https://github.com/KevinKlaes)
 </div>
 
-## Skills
-### Languages
-- **Python** - FIXME.
-- **Javascript** - Built custom data filtering and exporting solution.
-- **SQL** - Experience building queries for when a framework ORM doesn't provide the necessary 
-- **HTML/CSS** - Two years experience writing basic HTML and CSS. Have used many templating/preprocessors to reduce the ... FIXME.
-
-### Development Frameworks and Libraries
-- **Django** - Two years experience enhancing multiple applications. Rearchitechting and designing solutions to
-- **jQuery** - Two years experience manipulating DOM to enhance end user experience.
-- **Bootstrap 2 and 3** - Used to quickly prototype new ideas and responsive websites.
-
-### Testing Frameworks
-- **Python (unittest, nose)** - Unit tested Django application and Python scripts to ensure data
-- **Javascript (Jasmine)** - Unit tested Javascript code to ensure 
-- **Browser (Selenium)** - Selenium was used to test all the pieces of code for a specific user story or use case. 
-
-### Development Tools and Methodologies
-- **Git + Github** - Version control is an indispensable tool and I strongly adhere to "commit early, commit often." Frequently consulted to assist coworkers with Git workflow and features.
-- **Test Driven Development** - After implementing TDD, the applications I work on daily experienced a 75% reduction in error pages. TDD has provided more time to develop new features and worry less about introducing regressions.
-- **Ansible** - Used to package and deploy Django and Node.js applications quickly and easily.
-- **MySQL/SQLite3** - Databases of choice.
-
+<div class='row' id='experience'>
 ## Experience
 ### University of Minnesota: Twin Cities
 #### Web Developer and Systems Administrator (January 2013 - Current)
@@ -46,12 +26,53 @@
 #### Volunteer Web Developer (July 2013 - September 2013)
 - Worked with Rainbow Health Initiative to create and deploy an online survey and collect data on the GLBT community in Minneapolis.
 - Provided backend code to collect data and data export solutions.
+</div>
 
 ### Learning RX
 #### Brain Trainer (May 2012 - October 2012)
 - Trained students according to LearningRX training procedures 
 - Documented progress of students through the LearningRX program
 
+<div id='skills' class='row'>
+## Skills and Technologies
+<div id='advanced' class='proficiency col-xs-12 col-lg-6'>
+### Advanced Proficiency
+- Django
+- jQuery
+- Bootstrap
+- Git
+- HTML, CSS, Jinja2, Less, HAML
+- MySQL
+</div>
+
+<div id='intermediate' class='proficiency col-xs-12 col-lg-6'>
+### Intermediate Proficiency
+- Selenium
+- Node.js
+- Flask
+- Express
+- Ansible
+- Shibboleth
+- *nix
+</div>
+
+<div id='basic' class='proficiency col-xs-12 col-lg-6'>
+### Basic Proficiency
+- Drupal
+- Ruby on Rails
+- Puppet
+</div>
+
+<div id='programming-languages' class='proficiency col-xs-12 col-lg-6'>
+### Programming Languages
+- Python
+- Javascript
+- SQL
+- Ruby
+</div>
+</div>
+
+<div id='education' class='row'>
 ## Education
 ### Bachelor's of Science in Mathematics 
 #### University of Minnesota: Twin Cities (Spring 2013)
@@ -60,4 +81,6 @@
 ### High School Diploma
 #### Math and Science Academcy (June 2004)
 - Participated in PSEO program and attended Inver Hills Community College for the 2003-2004 academic year to fulfill my remaining high school requirements.
+</div>
+
 </div>

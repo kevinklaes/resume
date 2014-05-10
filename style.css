@@ -5,3 +5,16 @@
   width: 60px;
   display: inline;
 }
+/*
+I like the size of the headers in the pandoc pdf export, but they're huge in
+bs3 so just reduce them.
+*/
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 20px;
+}
+h4 {
+  font-size: 16px;
+}
