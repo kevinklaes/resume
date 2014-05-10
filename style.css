@@ -1,0 +1,11 @@
+#contact~ul {
+  list-style-type: none;
+}
+#contact~ul > li {
+  width: 60px;
+  display: inline;
+}
+h1, h2, h3, h4 {
+  margin: 0px;
+  padding: 0px;
+}
