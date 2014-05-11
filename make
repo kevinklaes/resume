@@ -14,4 +14,4 @@ pandoc References.md -o build/references/references.html -S
 pandoc References.md -o build/references/references.pdf -V geometry:"top=2cm, bottom=1.5cm, left=4cm, right=4cm"
 
 echo "Deploying..."
-rsync -ra build/ master:/var/www/html/resume/
+rsync -rva build/ master:/var/www/html/resume/
