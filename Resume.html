@@ -11,25 +11,39 @@
 </head>
 <body>
 <div class="container">
+<div class="row">
+<header>
 <h1>Kevin Klaes</h1>
 <div id="contact">
 <ul>
-<li>2732 Grand Ave S, Minneapolis, MN 55408</li>
-<li>Kevin.Klaes@gmail.com</li>
+<li><script type="text/javascript">
+<!--
+h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#x4b;&#x65;&#118;&#x69;&#110;&#46;&#x4b;&#108;&#x61;&#x65;&#x73;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#x4b;&#x65;&#118;&#x69;&#110;&#46;&#x4b;&#108;&#x61;&#x65;&#x73;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;</noscript></li>
 <li>612.234.1645</li>
 <li><a href="https://github.com/KevinKlaes">github.com/KevinKlaes</a></li>
+<li><address>
+2732 Grand Ave S,<br/> Minneapolis, MN 55408
+</address></li>
 </ul>
 </div>
-<div id="experience" class="row">
+<!-- #contact -->
+</header></div><!-- .row -->
+
+<div class='row' id='experience'>
+<div class='col-xs-12'>
 <h2>Experience</h2>
 <h3>University of Minnesota: Twin Cities</h3>
-<h4>Web Developer and Systems Administrator (January 2013 - Current)</h4>
+<h4>Web Developer and Systems Administrator (January 2013 - Present)</h4>
 <ul>
-<li>Maintained and improved internal department applications with backend in Django. Applications utilized HTML5 and Javascript/Jquery to enhance the user application and experience. Implemented a REST API using <a href="http://www.django-rest-framework.org/">Django Rest Framework</a> to decouple frontend and backend code.</li>
+<li>Maintained and improved internal department applications with backend in Django. Applications utilized HTML5 and Javascript/Jquery to enhance the user application and experience. Implemented a REST API using Django Rest Framework to decouple frontend and backend code.</li>
 <li>Implemented test driven development for all new features and wrote tests for legacy code after documenting the purpose and evaluating the functionality.</li>
 <li>Collected and detailed requirements for new and existing features. Self initiated effort to improve undocumented code and increase compliancy with best standard coding practices (PEP8, DRY, TDD).</li>
-<li>Secured web applications by introducing and working with application owners and users to define access control the specific parts of their application. Encouraged users to export less data by implementing features to complete workflows previously done by exporting and importing.</li>
-<li>Advise and work with faculty to develop professional websites; primarily <a href="http://mathinsight.org">Math Insight</a>; improve useability, and encourage software development best practices.</li>
+<li>Secured web applications by introducing and working with application owners and users to define access controls to specific parts of their applications.</li>
+<li>Reduced redundant user input by implementing and improving backend workflows.</li>
+<li>Advised and worked with faculty to develop professional websites (primarily <a href="http://mathinsight.org">Math Insight</a>), improve useability, and encourage software development best practices.</li>
 </ul>
 <h4>Student Web Developer (March 2012 - January 2013)</h4>
 <ul>
@@ -39,23 +53,26 @@
 <h3>Rainbow Health Initiative</h3>
 <h4>Volunteer Web Developer (July 2013 - September 2013)</h4>
 <ul>
-<li>Worked with Rainbow Health Initiative to create and deploy an online survey and collect data on the GLBT community in Minneapolis.</li>
+<li>Worked with Rainbow Health Initiative to create and deploy an online survey to collect data on the LGBT community of Minnesota.</li>
 <li>Provided backend code in Django to collect data and data export solutions.</li>
+<li>Trained RHI webmaster to deploy application.</li>
 </ul>
 <h3>Learning RX</h3>
 <h4>Brain Trainer (May 2012 - October 2012)</h4>
 <ul>
-<li>Trained students according to LearningRX training procedures</li>
-<li>Documented progress of students through the LearningRX program</li>
+<li>Trained students according to LearningRX training procedures.</li>
+<li>Documented progress of students through the LearningRX program.</li>
 </ul>
 </div>
-<div id="skills" class="row">
+<!-- .col-xs-12 -->
+</div><!-- #experience -->
+
+<div id='skills' class='row'>
 <h2>Skills and Technologies</h2>
 <div id="advanced" class="proficiency col-xs-12 col-lg-6">
 <h3>Advanced Proficiency</h3>
 <ul>
 <li>Django</li>
-<li>Python 2</li>
 <li>jQuery</li>
 <li>Bootstrap</li>
 <li>Git</li>
@@ -63,7 +80,9 @@
 <li>MySQL</li>
 </ul>
 </div>
-<div id="intermediate" class="proficiency col-xs-12 col-lg-6">
+<!-- #advanced -->
+
+<div id='intermediate' class='proficiency col-xs-12 col-lg-6'>
 <h3>Intermediate Proficiency</h3>
 <ul>
 <li>Node.js</li>
@@ -75,39 +94,43 @@
 <li>Shibboleth</li>
 </ul>
 </div>
-<div id="basic" class="proficiency col-xs-12 col-lg-6">
-<h3>Basic Proficiency</h3>
+<!-- #intermediate -->
+
+<div id='basic' class='proficiency col-xs-12 col-lg-6'>
+<h3 id="basic-proficiency">Basic Proficiency</h3>
 <ul>
 <li>Ansible</li>
 <li>Drupal</li>
 <li>Ruby on Rails</li>
 <li>Puppet</li>
-<li>PHP</li>
 </ul>
-</div>
-<div id="programming-languages" class="proficiency col-xs-12 col-lg-6">
-<h3>Programming Languages</h3>
+</div><!-- #basic -->
+
+<div id='programming-languages' class='proficiency col-xs-12 col-lg-6'>
+<h3 id="programming-languages">Programming Languages</h3>
 <ul>
 <li>Python</li>
 <li>Javascript</li>
 <li>SQL</li>
 <li>Ruby</li>
 </ul>
-</div>
-</div>
-<div id="education" class="row">
-<h2>Education</h2>
-<h3>Bachelor's of Science in Mathematics</h3>
-<h4>University of Minnesota: Twin Cities (Spring 2013)</h4>
+</div><!-- #programming-lanagues -->
+</div><!-- #skills -->
+
+<div id='education' class='row'>
+<h2 id="education">Education</h2>
+<h3 id="bachelors-of-science-in-mathematics">Bachelor's of Science in Mathematics</h3>
+<h4 id="university-of-minnesota-twin-cities-spring-2013">University of Minnesota: Twin Cities (Spring 2013)</h4>
 <ul>
 <li>Coursework at the University of Minnesota focued on actuarial mathematics, intermediate economics courses, and cryptography. Attended the University of Minnesota: Duluth from Fall 2004 until Spring 2006 with the intent to major in Computer Science.</li>
 </ul>
-<h3>High School Diploma</h3>
-<h4>Math and Science Academy (June 2004)</h4>
+<h3 id="high-school-diploma">High School Diploma</h3>
+<h4 id="math-and-science-academy-june-2004">Math and Science Academy (June 2004)</h4>
 <ul>
 <li>Participated in PSEO program and attended Inver Hills Community College for the 2003-2004 academic year to fulfill my remaining high school requirements.</li>
 </ul>
-</div>
-</div>
+</div><!-- #education -->
+
+</div><!-- .container -->
 </body>
 </html>
