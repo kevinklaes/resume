@@ -1,11 +1,3 @@
-<div class='row' id='contact'>
-# Kevin Klaes
-- 2732 Grand Ave S, Minneapolis, MN 55408
-- Kevin.Klaes@gmail.com
-- 612.234.1645
-- [github.com/KevinKlaes](https://github.com/KevinKlaes)
-</div><!-- #contact.row -->
-
 <div class='row' id='references'>
 <div class='col-xs-12'>
 ## References
