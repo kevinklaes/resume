@@ -1,15 +1,11 @@
-<div class='container'>
-
-<div class='row'><header>
+<div class='row' id='contact'>
 # Kevin Klaes
-<div id='contact'>
-- <Kevin.Klaes@gmail.com>
+- Kevin.Klaes@gmail.com
 - 612.234.1645
 - [github.com/KevinKlaes](https://github.com/KevinKlaes)
 - <address>2732 Grand Ave S,<br/>
   Minneapolis, MN 55408</address>
-</div><!-- #contact -->
-</header></div><!-- .row -->
+</div><!-- #contact.row -->
 
 <div class='row' id='experience'>
 <div class='col-xs-12'>
@@ -41,6 +37,7 @@
 </div><!-- #experience -->
 
 <div id='skills' class='row'>
+<div class='col-xs-12'>
 ## Skills and Technologies
 <div id='advanced' class='proficiency col-xs-12 col-lg-6'>
 ### Advanced Proficiency
@@ -78,9 +75,11 @@
 - SQL
 - Ruby
 </div><!-- #programming-lanagues -->
+</div><!-- .col-xs-12 -->
 </div><!-- #skills -->
 
 <div id='education' class='row'>
+<div class='col-xs-12'>
 ## Education
 ### Bachelor's of Science in Mathematics 
 #### University of Minnesota: Twin Cities (Spring 2013)
@@ -90,6 +89,5 @@
 ### High School Diploma
 #### Math and Science Academy (June 2004)
 - Participated in PSEO program and attended Inver Hills Community College for the 2003-2004 academic year to fulfill my remaining high school requirements.
+</div><!-- .col-xs-12 -->
 </div><!-- #education -->
-
-</div><!-- .container -->

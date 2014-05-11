@@ -1,15 +1,17 @@
 #!/bin/bash
 
+if ! [ -f build ]
+    then
+        mkdir build
+        mkdir build/references
+fi
 
 echo "Turning md into html and pdf"
-pandoc Resume.md -o Resume.html -c http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css -c style.css -T "Kevin Klaes"
-pandoc Resume.md -o Resume.pdf -V geometry:"top=2cm, bottom=1.5cm, left=3cm, right=3cm"
+pandoc Resume.md -o build/resume.html -S
+pandoc Resume.md -o build/resume.pdf -V geometry:"top=2cm, bottom=1.5cm, left=3cm, right=3cm"
 
-pandoc References.md -o References.html -c http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css -c style.css -T "Kevin Klaes - References"
-pandoc References.md -o References.pdf -V geometry:"top=2cm, bottom=1.5cm, left=4cm, right=4cm"
+pandoc References.md -o build/references/references.html -S 
+pandoc References.md -o build/references/references.pdf -V geometry:"top=2cm, bottom=1.5cm, left=4cm, right=4cm"
 
-if [ -f deploy ]
-    then
-        echo 'Deploying...'
-        bash deploy
-fi
+echo "Deploying..."
+rsync -ra build/ master:/var/www/html/resume/
