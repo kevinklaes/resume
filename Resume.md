@@ -76,9 +76,5 @@
 #### University of Minnesota: Twin Cities (Spring 2013)
 - Coursework at the University of Minnesota focued on actuarial mathematics, intermediate economics courses, and cryptography. 
 - Attended the University of Minnesota: Duluth from Fall 2004 until Spring 2006 with the intent to major in Computer Science.
-
-### High School Diploma
-#### Math and Science Academy (June 2004)
-- Participated in PSEO program and attended Inver Hills Community College for the 2003-2004 academic year to fulfill my remaining high school requirements.
 </div><!-- .col-xs-12 -->
 </div><!-- #education -->
