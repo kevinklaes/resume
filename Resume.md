@@ -1,3 +1,5 @@
+\pagenumbering{gobble}
+
 <div class='row' id='experience'>
 <div class='col-xs-12'>
 ## Experience
@@ -18,6 +20,8 @@
 - Trained RHI webmaster to deploy application.
 </div><!-- .col-xs-12 -->
 </div><!-- #experience -->
+
+\newpage
 
 <div id='skills' class='row'>
 <div class='col-xs-12'>
