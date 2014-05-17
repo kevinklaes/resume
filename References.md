@@ -1,3 +1,5 @@
+\pagenumbering{gobble}
+
 <div class='row' id='references'>
 <div class='col-xs-12'>
 ## References
