@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ! [ -f build ]
+if ! [ -d build ]
     then
         mkdir build
         mkdir build/references
