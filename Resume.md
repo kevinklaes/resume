@@ -5,8 +5,8 @@
 ## Experience
 ### University of Minnesota: Twin Cities
 #### Web Developer and Systems Administrator (March 2012 - Present)
-- Maintained and improved internal department applications with backend in Django/Python. Applications utilized HTML5 and Javascript/jQuery to enhance the user application and experience. Implemented a REST API using Django Rest Framework to decouple frontend and backend code.
-- Implemented test driven development for all new features and wrote tests for legacy code after documenting the purpose and evaluating the functionality.
+- Maintained and improved internal department applications with backend in Django and Python. Applications utilized HTML5 and Javascript/jQuery to enhance the user application and experience. Implemented REST API using Django Rest Framework to decouple front end and back end code.
+- Implemented test driven development for all new features and wrote tests for legacy code after documenting the purpose and evaluating functionality.
 - Collected and detailed requirements for new and existing features. Self initiated effort to improve undocumented code and increase compliancy with best standard coding practices (PEP8, DRY, TDD). 
 - Secured web applications by introducing and working with application owners and users to define access controls to specific parts of their applications. 
 - Reduced redundant user input by implementing and improving backend workflows.
@@ -62,7 +62,6 @@
 - Ruby on Rails
 - Puppet
 </div><!-- #basic -->
-
 </div><!-- .col-xs-12 -->
 </div><!-- #skills -->
 
