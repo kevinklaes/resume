@@ -6,7 +6,7 @@
 ### Brian Auron (University of Minnesota)
 - 1.218.226.8585
 
-### Joseph Bush (University of Minnesota)
+### Joseph Busch (University of Minnesota)
 - 1.952.297.2265
 
 ### Ian LaForge (Rainbow Health Initiative / Learning RX)
