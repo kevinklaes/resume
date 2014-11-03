@@ -6,11 +6,11 @@
 ### FPX (Contract Management and Workflow - Glider.com)
 #### Software Engineer (June 2014 - Present)
 - Expanded upon existing Django application to incorporate new business requirements including placeable signatures in PDF documents and user group assignments for workflow tasks.
-- Utilized the Twitter Flight and RequireJS to build a scalable and reusable front-end application structure
-- Integrated external application with FPX's core products through REST API
-- Assisted with identifying business needs and translating those to developer requirements
-- Utilized continuous integration tools, including Codeship and Jenkins, alongside automated testing to increase code quality
-- Advised and assisted project managers to make important decisions such as those related to server migrations and upgrades
+- Utilized the Twitter Flight and RequireJS to build a scalable and reusable front-end application structure.
+- Integrated contract management solution with FPX's other products.
+- Assisted with identifying business needs and translating those to developer requirements.
+- Utilized continuous integration tools, including Codeship and Jenkins, alongside automated testing to increase code quality.
+- Assisted and advised project managers with making important business decisions related to features, server migrations, and upgrades.
 
 ### University of Minnesota: Twin Cities
 #### Web Developer and Systems Administrator (March 2012 - July 2014)
