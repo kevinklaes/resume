@@ -8,13 +8,14 @@
 - Expanded upon existing Django application to incorporate new business requirements including placeable signatures in PDF documents and user group assignments for workflow tasks.
 - Utilized Twitter Flight and RequireJS to build a scalable and reusable front-end application structure.
 - Integrated contract management solution with FPX's other products and SalesForce platform.
-- Assisted with identifying business needs and translation to developer requirements.
+- Identified business needs and translated them to developers' requirements.
 - Utilized continuous integration tools, including Codeship and Jenkins, alongside automated testing to increase code quality.
 - Assisted and advised project managers with making important business decisions related to features, server migrations, and upgrades.
 
 ### Graphic Systems
 #### Software Developer, Contract (December 2014)
-- Added functionality to online ordering system for cancel recent orders and manage contacts for thousands of stores.
+- Improved online ordering system for thousands of stores by adding features for canceling recent orders and managing contacts.
+- Consulted on product feature timeline and made recommendations regarding the future maintenance of the online ordering systems.
 - Documented developer processes, introduced version control, set up developer instance of project.
 
 ### University of Minnesota: Twin Cities
