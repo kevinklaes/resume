@@ -2,8 +2,16 @@
 <div class='row' id='experience'>
 <div class='col-xs-12'>
 ## Experience
+### Raytheon Foreground Security
+#### Senior Software Engineer (March 2015 - Present)
+- **Technology**: Python, Django, Postgres, jQuery, Docker, Linux, Git, Jira
+- Led design and development for new features within ATIP application. Gathered requirements from product owner and user group to provide small accomplishable tasks to the development team.
+- Created new interfaces to allow ATIP tool to query additional SIEM devices like McAfee ESM, Splunk, and Solera Bluecoat.
+- Developed application to aggregate corporate network data and detect malicious activity.
+- Assisted scrum master with changes to software development process when migrating to Agile and Kanban.
+
 ### FPX (Glider.com)
-#### Software Engineer (June 2014 - Present)
+#### Software Engineer (June 2014 - March 2015)
 - **Technology**: Python, Django, MySQL, Flight JS, RequireJS, jQuery, Bootstrap 2/3, Less, Chef, Jenkins, Apache, nginx, Linux, Git, Jira
 - Expanded existing Django application to incorporate new business requirements including placeable signatures in PDF documents and user group assignments for workflow tasks.
 - Built a scalable and reusable front-end Javascript application utilizing Twitter Flight JS and RequireJS.
