@@ -3,7 +3,7 @@
 <div class='col-xs-12'>
 ## Experience
 ### Raytheon Foreground Security
-#### Lead Software Engineer (March 2015 - Present)
+#### Lead Software Engineer (October 2016 - Present), Senior Software Engineer (March 2015 - October 2016)
 - **Technology**: Python, Django, Postgres, jQuery, Docker, Linux, Git, Jira
 - Led design and development for new features within Automated Threat Intelligence Platform.
 - Managed requirements from product owner and user group to provide accomplishable tasks to the development team.
