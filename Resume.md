@@ -9,8 +9,8 @@
 - Managed requirements from product owner and user group to provide accomplishable tasks to the development team.
 - Created new interfaces to allow ATIP tool to integrate with SIEM devices like McAfee ESM, Splunk, and Solera Bluecoat.
 - Introduced pair coding efforts to reduce bottlenecks during pull requests, prevent new bugs, and reduce code review time.
-- Individually reviewed every pull request in effort to introduce team code reviews and increase code quality.
-- Rapidly developed prototype with external team to aggregate corporate network data and detect malicious activity.
+- Formalized a code review process after introducing team code reviews to increase code quality.
+- Rapidly developed prototype application with external team to aggregate corporate network data and detect malicious activity.
 - Assisted scrum master with changes to software development process when transitioning to Agile and Kanban.
 
 ### FPX (Glider.com)
