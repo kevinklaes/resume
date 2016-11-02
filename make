@@ -1,4 +1,5 @@
 #!/bin/bash
+# ask me why this file is named make
 
 if ! [ -d build ]
     then
