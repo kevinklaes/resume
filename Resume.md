@@ -5,9 +5,9 @@
 ### Raytheon Foreground Security
 #### Lead Software Engineer (October 2016 - Present), Senior Software Engineer (March 2015 - October 2016)
 - **Technology**: Python, Django, Postgres, jQuery, Docker, Linux, Git, Jira
-- Led design and development for new features within Automated Threat Intelligence Platform.
-- Managed requirements from product owner and user group to provide accomplishable tasks to the development team.
-- Created new interfaces to allow ATIP tool to integrate with SIEM devices like McAfee ESM, Splunk, and Solera Bluecoat.
+- Led design and development for new features within a distributed web-based application used to identify malicious activity on customer networks and manage investigations of incidents.
+- Managed requirements from product owners and user group to provide accomplishable tasks to a distributed development team.
+- Created new interfaces to integrate with external SIEM devices like McAfee ESM, Splunk, and Solera Bluecoat.
 - Introduced pair coding efforts to reduce bottlenecks during pull requests, prevent new bugs, and reduce code review time.
 - Formalized a code review process after introducing team code reviews to increase code quality.
 - Rapidly developed prototype application with external team to aggregate corporate network data and detect malicious activity.
