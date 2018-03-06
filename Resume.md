@@ -2,12 +2,22 @@
 <div class='row' id='experience'>
 <div class='col-xs-12'>
 ## Experience
+### Rackspace
+#### Senior Software Engineer (February 2017 - Present)
+- **Technology**: Python, Javascript, React, Closure, Docker, Chef, Git, Jira
+- Led cleanup efforts of legacy application code improving maintainability.
+- Transitioned legacy application to modern infrastructure.
+- Enhanced header application that integrated across multiple Rackspace products.
+- Maintained legacy infrastructure while transitioning server configuration to Kubernetes/Docker.
+- Improved code review process with formalized template and actively participated in code reviews.
+- Actively participated in an Agile environment using Kanban to manage issues and track prograss.
+
 ### Raytheon Foreground Security
-#### Lead Software Engineer (October 2016 - Present), Senior Software Engineer (March 2015 - October 2016)
+#### Lead Software Engineer (October 2016 - February 2017), Senior Software Engineer (March 2015 - October 2016)
 - **Technology**: Python, Django, Postgres, jQuery, Docker, Linux, Git, Jira
-- Led design and development for new features within Automated Threat Intelligence Platform.
-- Managed requirements from product owner and user group to provide accomplishable tasks to the development team.
-- Created new interfaces to allow ATIP tool to integrate with SIEM devices like McAfee ESM, Splunk, and Solera Bluecoat.
+- Led design and development for new features within a distributed web-based application used to identify malicious activity on customer networks and manage investigations of incidents.
+- Managed requirements from product owners and user group to provide accomplishable tasks to a distributed development team.
+- Created new interfaces to integrate with external SIEM devices like McAfee ESM, Splunk, and Solera Bluecoat.
 - Introduced pair coding efforts to reduce bottlenecks during pull requests, prevent new bugs, and reduce code review time.
 - Formalized a code review process after introducing team code reviews to increase code quality.
 - Rapidly developed prototype application with external team to aggregate corporate network data and detect malicious activity.
@@ -22,13 +32,6 @@
 - Improved automated testing to increase application consistency by introducing continuous integration tools.
 - Assisted with project planning and direction relating to future feature releases, hardware migrations, and software upgrades.
 
-### Graphic Systems
-#### Software Developer, Contract (December 2014)
-- **Technology**: Python, Django, jQuery, Apache, Linux, Git, Bootstrap 2
-- Improved online ordering system for thousands of stores by adding features related to contacts and order management.
-- Consulted on product feature timeline and made recommendations regarding the future maintenance of the online ordering systems.
-- Documented developer processes, introduced version control, and set up developer instance to facilitate development of the application.
-
 ### University of Minnesota: Twin Cities
 #### Web Developer and Systems Administrator (March 2012 - July 2014)
 - **Technology**: Python, Django, MySQL, Memcache, Bootstrap 2/3, jQuery, Puppet, Apache, nginx, Linux, Git, Shibboleth (SSO), Selenium, nose, unittest
@@ -42,18 +45,19 @@
 </div><!-- #experience -->
 <div id='skills' class='row'>
 <div class='col-xs-12'>
-## Volunteer Experience
+## Volunteeringe
+### Canine Companions for Independence
+#### Volunteer Puppy Raiser
+- Raise a puppy from eight weeks until 1.5 years old while socializing and training the puppy to become a service dog. The dog learns specific commands and accompanies me in public.
+
+### Catalyst Adaptive Sports
+- Assist with a monthly rock climbing clinic for those with physical disabilities.
+
 ### CoderDojoTC
 #### Mentor
 - Taught students how to use Python to interact with a Minecraft world.
 - Contributed Flask application to assist with creation and management of deployed instances for students during class.
 
-### Rainbow Health Initiative
-#### Web Developer
-- **Technology**: Python, Django, Bootstrap 3, jQuery, Apache, Git
-- Worked with Rainbow Health Initiative to create and deploy an online survey to collect data on the LGBT community of Minnesota.
-- Provided backend code in Django to collect data and data export solutions.
-- Trained RHI webmaster to deploy application.
 </div><!-- .col-xs-12 -->
 </div><!-- #education -->
 <div id='education' class='row'>
