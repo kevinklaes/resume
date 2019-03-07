@@ -39,7 +39,7 @@
 - Implemented test driven development for all new features and wrote tests with Selenium for legacy code after documenting the purpose and evaluating functionality.
 - Self initiated efforts to improve undocumented code and increase compliance with best standard coding practices (PEP8, DRY, TDD).
 - Secured web applications by introducing and working with application owners and users to define access controls to specific parts of their applications.
-- Advised and worked with faculty to develop professional websites (primarily [Math Insight](http://mathinsight.org)), improve useability, and encourage software development best practices.
+- Advised and worked with faculty to develop professional websites (primarily [Math Insight](http://mathinsight.org)),improve usability, and encourage software development best practices.
 - Rebuilt department event application and integrated with Google Calendar to increase visibility to students and encourage subscriptions.
 </div><!-- .col-xs-12 -->
 </div><!-- #experience -->
@@ -48,16 +48,10 @@
 ## Volunteeringe
 ### Canine Companions for Independence
 #### Volunteer Puppy Raiser
-- Raise a puppy from eight weeks until 1.5 years old while socializing and training the puppy to become a service dog. The dog learns specific commands and accompanies me in public.
+- Raised two puppy from eight weeks for approximately two years providing socilization and training the puppy to become a service dog.
 
 ### Catalyst Adaptive Sports
-- Assist with a monthly rock climbing clinic for those with physical disabilities.
-
-### CoderDojoTC
-#### Mentor
-- Taught students how to use Python to interact with a Minecraft world.
-- Contributed Flask application to assist with creation and management of deployed instances for students during class.
-
+- Assist with a monthly rock-climbing clinic for those with physical disabilities.
 </div><!-- .col-xs-12 -->
 </div><!-- #education -->
 <div id='education' class='row'>
