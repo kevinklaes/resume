@@ -5,12 +5,12 @@
 ### Rackspace
 #### Senior Software Engineer (February 2017 - Present)
 - **Technology**: Python, Javascript, React, Closure, Docker, Chef, Git, Jira
-- Led cleanup efforts of legacy application code improving maintainability.
-- Transitioned legacy application to modern infrastructure.
-- Enhanced header application that integrated across multiple Rackspace products.
-- Maintained legacy infrastructure while transitioning server configuration to Kubernetes/Docker.
-- Improved code review process with formalized template and actively participated in code reviews.
-- Actively participated in an Agile environment using Kanban to manage issues and track prograss.
+- Furthered work on notifications aggregation product that aims to reduce the number of interfaces a customer deals with.
+- Enhanced server management interface for Rackspace Cloud customers by expanding functionality and squashing bugs. Migrated Closure components to React where appropriate to further application rewrite project.
+- Briefly contributed to company wide navigation project by providing customizable components and a flexible offering across teams.
+- Led code review efforts to increase product quality and maintainability. Collaborated on code standards and process expectations.
+- Spearheaded efforts to clean up legacy code and maintain up to date software/framework installations. Migrated legacy application infrastructure to a consolidated Rackspace OpenStack installation.
+- Active participant in multiple teams across the organization in an Agile development environment.
 
 ### Raytheon Foreground Security
 #### Lead Software Engineer (October 2016 - February 2017), Senior Software Engineer (March 2015 - October 2016)
