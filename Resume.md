@@ -45,13 +45,10 @@
 </div><!-- #experience -->
 <div id='skills' class='row'>
 <div class='col-xs-12'>
-## Volunteeringe
+## Volunteering
 ### Canine Companions for Independence
 #### Volunteer Puppy Raiser
-- Raised two puppy from eight weeks for approximately two years providing socilization and training the puppy to become a service dog.
-
-### Catalyst Adaptive Sports
-- Assist with a monthly rock-climbing clinic for those with physical disabilities.
+- Raised two labrador retrievers from eight weeks to adult maturity while providing socialization and public training opportunities to prepare the puppy for a career as a service dog.
 </div><!-- .col-xs-12 -->
 </div><!-- #education -->
 <div id='education' class='row'>
